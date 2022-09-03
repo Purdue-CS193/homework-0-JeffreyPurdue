@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Jeffrey's First CS193 Homework
+
+- The TAs are cool
+- CS is cool
+- It's not stressful unlike MA165
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
